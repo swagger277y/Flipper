@@ -1,0 +1,4 @@
+{
+    "remoteHub.commitDirectlyWarning": "auto",
+    "python.analysis.indexing": true
+}
